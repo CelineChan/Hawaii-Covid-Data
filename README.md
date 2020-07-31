@@ -8,7 +8,7 @@ An analysis project on the number of COVID cases in the State of Hawaii. This st
 ## A few highlights from the project are:
 
 ### Modeling the data with a Simple Moving Average:
-![](SMA_graph.png)
+![](sma_graph.png)
 
 ### Modeling and forecasting with Exponential Smoothing:
-![](expsmoothing_graph.png)
+![](holt_expsmoothing_graph.png)
